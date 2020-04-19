@@ -1,0 +1,17 @@
+/*Sve with name ending in .css*/
+body{
+		background-image:url(https://s3.amazonaws.com/kevinmyoon.com/20170531_085156.jpg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position:center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
+iframe.pdf {
+		height:500;
+		width:500;
+		scrolling:no;
+	}
